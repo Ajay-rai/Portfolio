@@ -1,6 +1,3 @@
-# Ajay's Portfolio
-Data Science Portfolio
-
 # [Project 1: Used Car Price Estimator](https://github.com/Ajay-rai/used_car_price_predictor)
 ## Project Overview
 * Created a tool that estimates price of a used car(MAE ~ $4K) to help the buyer negotiate while shopping and individuals who want to list their car on platforms like Facebook Marketplace.

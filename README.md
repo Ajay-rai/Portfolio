@@ -19,7 +19,7 @@ Features such as mileage, age of car(built year) and gas mileage plays an import
 
 The deployment page looks like this. To use the price estimator, use this [link](https://carpricechecker.herokuapp.com/).
 
-# [Project 2: BERT-NLP-TweetSentimentClassification](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification)
+# [Project 2: Tweet Sentimental Analysis](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification)
 ## Project Overview
 * Determined the sentiment of public towards work from home by analyzing tweets.
 * Scraped over 7000,000 tweets using snscrape. Performed text-preprocessing and EDA.
@@ -38,7 +38,7 @@ The sentiment of public was almost equally divided for 'work from home' trend. T
 
 Wordcloud of hashtags.
 
-# [Project 3: FailurePrediction-NasaTurbofan](https://github.com/Ajay-rai/FailurePrediction-NasaTurbofan)
+# [Project 3: Turbofan Failure Prediction](https://github.com/Ajay-rai/FailurePrediction-NasaTurbofan)
 ## Project Overview
 * Predicted the remaining useful life (RUL) of turbofan based on sensor information using regression and deep learning models.
 * Performed EDA on FD001 dataset. Removed unnecessary sensors and setting conditions.
